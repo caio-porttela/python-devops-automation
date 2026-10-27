@@ -1,0 +1,6 @@
+2026-10-25 09:00:00 INFO Aplicação iniciada
+2026-10-25 09:01:00 INFO Conexão estabelecida
+2026-10-25 09:02:00 ERROR Falha ao conectar ao banco de dados
+2026-10-25 09:03:00 WARNING Tempo de resposta elevado
+2026-10-25 09:04:00 ERROR Falha ao processar requisição
+2026-10-25 09:05:00 INFO Aplicação funcionando
